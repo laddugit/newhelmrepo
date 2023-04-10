@@ -3,7 +3,7 @@ entries:
   javawebapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-10T05:26:18.57150405Z"
+    created: "2023-04-10T05:41:36.15497648Z"
     description: A Helm chart for Kubernetes
     digest: 20507340113b23ae2979233d4d78e9ed3890334db40a4141d27d747189242d0e
     name: javawebapp
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://laddugit.github.io/newhelmrepo/javawebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-10T05:26:18.569571842Z"
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-10T05:41:36.155584855Z"
+    description: A Helm chart for Kubernetes
+    digest: 8ac446ca225b39f4be55929b7887ab5e553d1892a6881c32f389a967834b07ac
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://laddugit.github.io/newhelmrepo/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-10T05:41:36.152297226Z"
